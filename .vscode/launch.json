@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PersonneFrame",
+            "request": "launch",
+            "mainClass": "PersonneFrame",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
             "name": "MyClockFrame",
             "request": "launch",
             "mainClass": "MyClockFrame",

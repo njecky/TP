@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MyClockFrame",
+            "request": "launch",
+            "mainClass": "MyClockFrame",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
+            "name": "HeureFrame",
+            "request": "launch",
+            "mainClass": "HeureFrame",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"

@@ -5,6 +5,27 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "name": "Attach to Chrome",
+            "port": 9222,
+            "request": "attach",
+            "type": "chrome",
+            "webRoot": "${workspaceFolder}"
+        },
+        {
+            "type": "java",
+            "name": "Personne",
+            "request": "launch",
+            "mainClass": "Personne",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
             "type": "java",
             "name": "PersonneFrame",
             "request": "launch",

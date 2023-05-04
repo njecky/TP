@@ -5,6 +5,20 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Exemple",
+            "request": "launch",
+            "mainClass": "Exemple",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
+            "name": "Clavier",
+            "request": "launch",
+            "mainClass": "Clavier",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
             "name": "Attach to Chrome",
             "port": 9222,
             "request": "attach",

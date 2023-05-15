@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EcritureDate",
+            "request": "launch",
+            "mainClass": "EcritureDate",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
+            "name": "EcritureMatrice",
+            "request": "launch",
+            "mainClass": "EcritureMatrice",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
+            "name": "EcritureFichier",
+            "request": "launch",
+            "mainClass": "EcritureFichier",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
+            "name": "LectureDate",
+            "request": "launch",
+            "mainClass": "LectureDate",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
+            "name": "LectureMatriceScanner",
+            "request": "launch",
+            "mainClass": "LectureMatriceScanner",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
+            "name": "LectureMatrice",
+            "request": "launch",
+            "mainClass": "LectureMatrice",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
+            "name": "LectureFichier",
+            "request": "launch",
+            "mainClass": "LectureFichier",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
             "name": "Exemple",
             "request": "launch",
             "mainClass": "Exemple",

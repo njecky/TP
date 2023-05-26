@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
             "name": "EcritureDate",
             "request": "launch",
             "mainClass": "EcritureDate",

@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Convertir",
+            "request": "launch",
+            "mainClass": "Convertir",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
+            "name": "AppL",
+            "request": "launch",
+            "mainClass": "AppL",
+            "projectName": "TpL 1_55a3c3f6"
+        },
+        {
+            "type": "java",
             "name": "Test",
             "request": "launch",
             "mainClass": "Test",
